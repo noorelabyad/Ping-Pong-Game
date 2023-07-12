@@ -8,7 +8,9 @@
 </ul>
 <table>
   <tr>
-    <th>Paddle Movement</th>
+    <tr>
+    <th colspan="2">Paddle Movement</th>
+  </tr>
   </tr>
   <tr>
     <td>Action</td>
@@ -34,7 +36,7 @@
 
 <table>
   <tr>
-    <th>Control</th>
+    <th colspan="2">Control</th>
   </tr>
   <tr>
     <td>Start</td>
