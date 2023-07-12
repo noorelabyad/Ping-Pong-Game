@@ -1,8 +1,8 @@
 # Ping-Pong-Game
 
 <ul>
-  <li>The game has two paddles and a ball that bounces back and forth between them.</li>
-  <li>The scores are kept track of and once a player has reached the maximum predefined score of 5, the player wins.</li>
+  <li>The game involves two paddles and a ball bouncing back and forth in between. </li>
+  <li>The scores are recorded and displayed, and a player wins once they reach the maximum predefined score of 5.</li>
   <li>Vivado Webpack 2022.1 and Basys3 FPGA Board were used for this project.</li>
   <li>Watch a <a href = "https://drive.google.com/file/d/1miZtWibbxm4GlGXkyaty_quP3NXrb4YN/view?usp=sharing">video</a> of this game in action.</li>
 </ul>
