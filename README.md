@@ -1,9 +1,4 @@
 # Ping-Pong-Game
-<style>
-  ul {
-    list-style-type: square;
-  }
-</style>
 
 <ul>
   <li>The game has two paddles and a ball that bounces back and forth between them.</li>
@@ -35,6 +30,23 @@
     <td>Left Player Down</td>
     <td>BTND</td>
   </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Control</th>
+  </tr>
+  <tr>
+    <td>Start</td>
+    <td>SW[0]</td>
+  </tr>
+  <tr>
+    <td>Reset</td>
+    <td>BTNC</td>
+  </tr>
+  
+
+ 
 </table>
 
 
